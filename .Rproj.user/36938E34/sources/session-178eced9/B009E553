@@ -3,7 +3,7 @@
     "path": "C:/Users/LAHUM/OneDrive/Desktop/IBM 6500/CEP Survey/CEP 05 Questionnaire Design/CEP 05 Questionnaire Design.qmd",
     "project_path": "CEP 05 Questionnaire Design.qmd",
     "type": "quarto_markdown",
-    "hash": "245943711",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1791956465091.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "672:1309"
+        "rmdVisualModeLocation": "675:1309"
     },
     "folds": "",
-    "lastKnownWriteTime": 1791957530,
+    "lastKnownWriteTime": 1791957736,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1791957530409,
+    "last_content_update": 1791957736254,
     "read_only": false,
     "read_only_alternatives": []
 }

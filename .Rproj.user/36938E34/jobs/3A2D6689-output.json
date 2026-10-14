@@ -1,3 +1,4 @@
 [1,"==> quarto preview CEP 05 Questionnaire Design.qmd --to html --no-watch-inputs --no-browse\n\n"]
 [1,"pandoc \n  to: html\n  output-file: CEP 05 Questionnaire Design.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  engines:\n    - path: C:\\Users\\LAHUM\\AppData\\Local\\Programs\\Quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  \n"]
-[1,"Output created: CEP 05 Questionnaire Design.html\n\nWatching files for changes\nBrowse at http://localhost:3114/\nListening on http://127.0.0.1:3114/\n"]
+[1,"Output created: CEP 05 Questionnaire Design.html\n\nWatching files for changes\n"]
+[1,"Browse at http://localhost:3917/\nListening on http://127.0.0.1:3917/\n"]
