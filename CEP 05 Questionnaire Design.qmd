@@ -47,4 +47,4 @@ execute:
 
 [Git Repo](https://github.com/lahumada63/CEP-05---Questionnaire-Design.git)
 
-Git Pages
+[Git Pages](https://lahumada63.github.io/CEP-05---Questionnaire-Design/)
